@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Oleg Fafurin
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
@@ -25,7 +25,8 @@ organizations:
     url: https://www.epfl.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Computer Scientist with prior experience in SWE, Quantitative Research and Competitive mathematics, now approaching the end of my Master in Computer Science at EPFL. Areas of my interest include Algorithms and Data Structures, Probabilistic Proofs and Discrete Mathematics.  
+bio: 
+# I'm a Computer Scientist with prior experience in Backend SWE, Quantitative Research and Competitive mathematics, now approaching the end of my Master in Computer Science at EPFL. Areas of my interest include Algorithms and Data Structures, Probabilistic Proofs and Discrete Mathematics.  
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,7 +37,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/oleg-fafurin-7963071aa/
   - icon: github
-    url: github.com/olegfafurin
+    url: https://www.github.com/olegfafurin
 # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
