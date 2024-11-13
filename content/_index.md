@@ -9,7 +9,7 @@ sections:
       username: admin
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [0, '2rem', 0, '2rem']
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
 #  - block: collection
