@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Expert in Algorithms and (almost) Master in Computer Science
+role: Expert in Algorithms and EPFL Master in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
