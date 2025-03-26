@@ -38,7 +38,7 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/oleg-fafurin-7963071aa/
-  - icon: github-mark
+  - icon: github
     url: https://www.github.com/olegfafurin
 # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
