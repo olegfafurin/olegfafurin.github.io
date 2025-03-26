@@ -23,8 +23,6 @@ role: Expert in Algorithms and EPFL Master in Computer Science
 organizations:
   - name: EPFL
     url: https://www.epfl.ch/
-#  - name: 239
-#    url: https://www.linkedin.com/school/pfml239/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -38,8 +36,8 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/oleg-fafurin-7963071aa/
-#  - icon: github
-#    url: https://www.github.com/olegfafurin
+  - icon: github
+    url: https://www.github.com/olegfafurin
 # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -52,4 +50,4 @@ highlight_name: true
 website: ""
 ---
 
-I'm a Computer Scientist with prior experience in Software Engineering, Quantitative Research and Competitive mathematics. Areas of my interest include Algorithms and Data Structures, Probabilistic Proofs and Discrete Mathematics. As I have recently graduated from EPFL Master's in Computer Science, I'm actively searching for a position in or in between Software Engineering, Quantitative Analysis and Applied Research either in Switzerland or in other parts of Europe.
+I'm a Computer Scientist with prior experience in Software Engineering, Quantitative Research and Competitive mathematics. Areas of my interest include Algorithms and Data Structures, Probabilistic Proofs and Discrete Mathematics. As I'm currently approaching the end of my Master studies I'm actively searching for a position in or in between Software Engineering, Quantitative Analysis and Applied Research either in Switzerland or in other parts of Europe.
