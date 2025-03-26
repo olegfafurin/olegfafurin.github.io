@@ -23,8 +23,8 @@ role: Expert in Algorithms and EPFL Master in Computer Science
 organizations:
   - name: EPFL
     url: https://www.epfl.ch/
-  - name: 239
-    url: https://www.linkedin.com/school/pfml239/
+#  - name: 239
+#    url: https://www.linkedin.com/school/pfml239/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -38,8 +38,8 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/oleg-fafurin-7963071aa/
-  - icon: github
-    url: https://www.github.com/olegfafurin
+#  - icon: github
+#    url: https://www.github.com/olegfafurin
 # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
